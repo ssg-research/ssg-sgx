@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## SSG project on Intel SGX
 
-You can use the [editor on GitHub](https://github.com/SSGAalto/ssg-sgx/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the list of Aalto SSG projects related to Intel SGX:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SSGAalto/ssg-sgx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[SGX utils](https://github.com/SSGAalto/sgx-utils) - Aalto SSG SGX utilities utilized in other projects.
+[SafeKeeper](https://github.com/safekeeper) - a project to improve password handling in the Web based on Intel SGX.
+[SGX migration](https://github.com/SSGAalto/sgx-migration) - VM migration solution that supports SGX enclaves.
+[Cloud Key Store](https://github.com/cloud-key-store) - an SGX application to store PGP private keys in the cloud.
+[SGX shadow](https://github.com/SSGAalto/sgx-branch-shadowing-mitigation) - mitigation of branch shadowing attacks against SGX.
+[S-FaaS](https://github.com/SSGAalto/sfaas) - secure function-as-a-service with trustworthy resource measurements.
