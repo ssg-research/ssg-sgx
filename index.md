@@ -1,4 +1,4 @@
-## SSG project on Intel SGX
+## SSG projects on Intel SGX
 
 This is the list of Aalto SSG projects related to Intel SGX:
 
